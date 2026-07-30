@@ -27,15 +27,10 @@ Valoración de recursos turísticos.
 Obtención de la última valoración, del primer trimestre (se recomienda que la Diputación consiga las anteriores), para poder presentar la evolución por trimestres.
 
 '''
-
-curl -X 'GET' \\
-
-&#x20; 'https://www.dataestur.es/API-SEGITTUR-v2/ATRACCIONES\_RECURSOS\_TURISTICOS\_DL?Provincia=C%C3%A1diz' \\
-
-&#x20; -H 'accept: application/octet-stream'
-
+curl -X 'GET' \
+  'https://www.dataestur.es/API-SEGITTUR-v2/ATRACCIONES\_RECURSOS\_TURISTICOS\_DL?Provincia=C%C3%A1diz' \
+  -H 'accept: application/octet-stream'
 '''
-
 
 
 **Carpeta Junta de Andalucía**
@@ -50,7 +45,7 @@ Personas usuarias por mes, de 2024, 2025 y 2026
 
 https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24\_0.xlsx
 
-&#x09;Hoja “3”
+En la Hoja “3”
 
 https://www.juntadeandalucia.es/sites/default/files/2026-05/museos25\_12\_V2.xlsx
 
@@ -66,7 +61,7 @@ Tipo de actividad: visitas guiadas, talleres, etc.
 
 https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24\_0.xlsx
 
-&#x09;Hoja “21”
+En la Hoja “21”
 
 
 
@@ -99,9 +94,7 @@ Llamadas al API para obtener los datos:
 https://guiadigital.iaph.es/store/apis/info?name=open-data-iaph\&version=1.0\&provider=guiadigital
 
 '''
-
 curl -k -X GET "https://guiadigital.iaph.es/api/1.0/bien/inmueble/2097" -H "accept: application/json" -H "Authorization: Bearer ebe7d5fd-e77c-3581-8242-6eb6a5dbdbef"
-
 '''
 
 
@@ -151,11 +144,8 @@ Llamadas al API para obtener los datos:
 https://guiadigital.iaph.es/store/apis/info?name=open-data-iaph\&version=1.0\&provider=guiadigital 
 
 '''
-
 curl -k -X GET "https://guiadigital.iaph.es/api/1.0/bien/inmaterial/218472" -H "accept: application/json" -H "Authorization: Bearer ebe7d5fd-e77c-3581-8242-6eb6a5dbdbef"
-
 '''
-
 
 
 **rutas-culturales.json**
