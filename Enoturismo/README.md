@@ -39,10 +39,11 @@ Contiene datos de:
 
 Censo de alojamientos por municipio, desde el API de OPEN RTA (Registro de Turismo de Andalucía)
 
-``curl -X 'GET' \
+```
+curl -X 'GET' \
   'https://datos.juntadeandalucia.es/api/v0/openrta/search?id=-\&object\_type=-\&category=-\&group=-\&modality=-\&province=-\&municipality=JEREZ%20DE%20LA%20FRONTERA\&order\_by=id\&mode=DESC\&format=json\&size=0\&object\_type\_id=0' \
-  -H 'accept: application/json'`
-
+  -H 'accept: application/json'
+```
 
 
 **Visitantes\_enoturismo\_Jerez.xlsx** 
