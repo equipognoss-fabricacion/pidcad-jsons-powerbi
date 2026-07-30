@@ -1,0 +1,1 @@
+Datos del INE de la "Estadística experimental. Medición del turismo a partir de teléfonos móviles", recuperada desde https://www.ine.es/dynt3/inebase/es/index.htm?padre=8578&capsel=8579. Estos datos se pueden filtrar por los dos municipios que componen la comarca "Campiña de Jerez" (Jerez de la Frontera y San José del Valle) y cargar sólo los datos que interesan al caso
