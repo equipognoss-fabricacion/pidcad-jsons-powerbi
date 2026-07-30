@@ -1,0 +1,662 @@
+[
+  {
+    "id": "Espacio VORS",
+    "nombre": "Espacio VORS",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.685,
+      "longitud": -6.137
+    },
+    "tipo": "DEGUSTACION"
+  },
+  {
+    "id": "Miss Catas",
+    "nombre": "Miss Catas",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera (catas en diferentes restaurantes de la ciudad)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6843,
+      "longitud": -6.1358
+    },
+    "tipo": "DEGUSTACION"
+  },
+  {
+    "id": "Winable",
+    "nombre": "Winable",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera (actividades en espacios singulares variables)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.685,
+      "longitud": -6.137
+    },
+    "tipo": "TALLER"
+  },
+  {
+    "id": "Museo de la Miel y las Abejas – Rancho Cortesano",
+    "nombre": "Museo de la Miel y las Abejas – Rancho Cortesano",
+    "localizacion": {
+      "direccion": "Carretera de Cortes (A-2003), Desviación el Torno km 2 (CA 3111)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6695,
+      "longitud": -6.096
+    },
+    "tipo": "DEGUSTACION"
+  },
+  {
+    "id": "Alcántara Ecuestre",
+    "nombre": "Alcántara Ecuestre",
+    "localizacion": {
+      "direccion": "Carretera de Cortes A-2003, km 10, Cuartillos",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6712,
+      "longitud": -6.0948
+    },
+    "tipo": "DEGUSTACION"
+  },
+  {
+    "id": "Miss Catas",
+    "nombre": "Miss Catas",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera (catas en diferentes restaurantes de la ciudad)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6843,
+      "longitud": -6.1358
+    },
+    "tipo": "TALLER"
+  },
+  {
+    "id": "Winable",
+    "nombre": "Winable",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera (actividades en espacios singulares variables)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.685,
+      "longitud": -6.137
+    },
+    "tipo": "DEGUSTACION"
+  },
+  {
+    "id": "Heladería Margarita La Fresca",
+    "nombre": "Heladería Margarita La Fresca",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera (local principal)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6843,
+      "longitud": -6.1358
+    },
+    "tipo": "DEGUSTACION"
+  },
+  {
+    "id": "Salinas de Chiclana",
+    "nombre": "Salinas de Chiclana",
+    "localizacion": {
+      "direccion": "Salinas de Chiclana – Parque Natural Bahía de Cádiz",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.41,
+      "longitud": -6.183
+    },
+    "tipo": "DEGUSTACION"
+  },
+  {
+    "id": "Castillo de San Marcos",
+    "nombre": "Castillo de San Marcos",
+    "localizacion": {
+      "direccion": "Plaza de Alfonso X El Sabio, 1",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.5964,
+      "longitud": -6.2266
+    },
+    "tipo": ""
+  },
+  {
+    "id": "BBJerez",
+    "nombre": "BBJerez",
+    "localizacion": {
+      "direccion": "Centro histórico, Jerez de la Frontera",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.685,
+      "longitud": -6.1375
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Rutasiete",
+    "nombre": "Rutasiete",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera (salidas desde varios puntos de la provincia)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.685,
+      "longitud": -6.137
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Yeguada La Cartuja – Hierro del Bocado",
+    "nombre": "Yeguada La Cartuja – Hierro del Bocado",
+    "localizacion": {
+      "direccion": "Finca Fuente del Suero, Carretera Jerez-Medina, km 6",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6508,
+      "longitud": -6.1352
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Tenidiomas",
+    "nombre": "Tenidiomas",
+    "localizacion": {
+      "direccion": "Jerez de la Frontera",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.685,
+      "longitud": -6.137
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-evento-primavera-flamenca-venta-vargas-344e24",
+    "nombre": "Primavera Flamenca",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": 36.475479,
+      "longitud": -6.194491
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "cadiz-evento-en-la-linea-musica-9c0332",
+    "nombre": "En La Línea Música",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LA LINEA DE LA CONCEPCION",
+      "latitud": 36.168256,
+      "longitud": -5.349472
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-jerez-fusion-2d4f56",
+    "nombre": "Jerez Fusión",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.696339,
+      "longitud": -6.120005
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "cadiz-evento-carlos-berlanga-fondos-y-formas-5d2440",
+    "nombre": "Carlos Berlanga",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "EXPOSICION"
+  },
+  {
+    "id": "cadiz-evento-arquitectura-andalusi-9860b1",
+    "nombre": "Arquitectura Andalusí",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.696339,
+      "longitud": -6.120005
+    },
+    "tipo": "EXPOSICION"
+  },
+  {
+    "id": "cadiz-evento-encuentro-internacional-de-guitarra-paco-dd8180",
+    "nombre": "XII Encuentro Internacional de Guitarra Paco de Lucía",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": 36.140759,
+      "longitud": -5.456233
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-bahia-sound-san-fernando-80d8a8",
+    "nombre": "Bahía Sound",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": 36.475479,
+      "longitud": -6.194491
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-rockzone-camp-6ac5ea",
+    "nombre": "Rockzone Camp",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.416505,
+      "longitud": -6.14611
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-verano-en-montenmedio-4106ac",
+    "nombre": "Verano en Montenmedio",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "VEJER DE LA FRONTERA",
+      "latitud": 36.252034,
+      "longitud": -5.966736
+    },
+    "tipo": "EVENTO ARTISTICO"
+  },
+  {
+    "id": "cadiz-evento-cadiz-music-stadium-c1cc7f",
+    "nombre": "Cádiz Music Stadium",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-actividades-turisticas-en-el-puerto-ec275e",
+    "nombre": "Activdades Turisticas en",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.639328,
+      "longitud": -6.258837
+    },
+    "tipo": "ACTIVIDADES DEPORTIVAS"
+  },
+  {
+    "id": "cadiz-evento-feria-del-queso-de-santa-teresa-fc3728",
+    "nombre": "Feria del queso de",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.416505,
+      "longitud": -6.14611
+    },
+    "tipo": "FESTIVAL GASTRONOMICO"
+  },
+  {
+    "id": "cadiz-evento-cine-de-verano-en-ubrique-c05242",
+    "nombre": "Cine de Verano en Ubrique",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "UBRIQUE",
+      "latitud": 36.677832,
+      "longitud": -5.448111
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-certamen-jerez-ciudad-jacobea-5ab933",
+    "nombre": "V Certamen Nacional Fotográfico",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.696339,
+      "longitud": -6.120005
+    },
+    "tipo": "EXPOSICION"
+  },
+  {
+    "id": "cadiz-evento-festival-vejer-flamenco-158994",
+    "nombre": "IV Festival Vejer Flamenco",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "VEJER DE LA FRONTERA",
+      "latitud": 36.252034,
+      "longitud": -5.966736
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "cadiz-evento-exposiciones-en-restaurante-quilla-9d28d7",
+    "nombre": "Exposiciones en Restaurante Quilla",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "EXPOSICION"
+  },
+  {
+    "id": "cadiz-evento-noche-en-blanco-arcos-fa40f3",
+    "nombre": "Noche en Blanco Arcos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ARCOS DE LA FRONTERA",
+      "latitud": 36.756004,
+      "longitud": -5.811652
+    },
+    "tipo": "EVENTO ARTISTICO"
+  },
+  {
+    "id": "cadiz-evento-tio-pepe-festival-jerez-12ba91",
+    "nombre": "Festival Tio Pepe",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.696339,
+      "longitud": -6.120005
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-concert-music-festival-01736f",
+    "nombre": "Concert Music Festival",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.416505,
+      "longitud": -6.14611
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-velada-cultural-ubrique-7e423d",
+    "nombre": "3º Velada Cultural",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "UBRIQUE",
+      "latitud": 36.677832,
+      "longitud": -5.448111
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-jueves-flamencos-patio-buleria-jerez-45e392",
+    "nombre": "Jueves Flamencos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.696339,
+      "longitud": -6.120005
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "cadiz-evento-flamencad-b0ccd2",
+    "nombre": "FLAMENCAD",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "Gourmet Cobos Catering",
+    "nombre": "Gourmet Cobos Catering",
+    "localizacion": {
+      "direccion": "Calle Newton, 5",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6895,
+      "longitud": -6.1228
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Alcázar Catering",
+    "nombre": "Alcázar Catering",
+    "localizacion": {
+      "direccion": "Parque Empresarial Oeste, Calle Algaida, 26",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6812,
+      "longitud": -6.1098
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-evento-noches-de-palacio-el-fundador-24559c",
+    "nombre": "Noches de Palacio",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.696339,
+      "longitud": -6.120005
+    },
+    "tipo": "EVENTO ARTISTICO"
+  },
+  {
+    "id": "cadiz-evento-banda-maestro-duenas-esencia-3bae62",
+    "nombre": "Banda Maestro Dueñas: Esencia",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.639328,
+      "longitud": -6.258837
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-la-mina-conil-6563d1",
+    "nombre": "La Mina",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.278099,
+      "longitud": -6.086207
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-festival-la-isla-del-blues-cadiz-4d47d6",
+    "nombre": "XXVII Festival La Isla del Blues",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-nosinmusica-e46166",
+    "nombre": "Nosinmúsica",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-tagarnina-fest-91657d",
+    "nombre": "Tagarnina Fest",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGODONALES",
+      "latitud": 36.881238,
+      "longitud": -5.403118
+    },
+    "tipo": "FESTIVAL GASTRONOMICO"
+  },
+  {
+    "id": "cadiz-evento-festival-flamenco-san-laureano-94e4e8",
+    "nombre": "V Festival Flamenco San Laureano",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BORNOS",
+      "latitud": 36.849023,
+      "longitud": -5.719452
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "cadiz-evento-olvera-diez-anos-de-inspiracion--olfgang-aeb068",
+    "nombre": "Olvera, diez años de inspiración",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "OLVERA",
+      "latitud": 36.935239,
+      "longitud": -5.259955
+    },
+    "tipo": "EXPOSICION"
+  },
+  {
+    "id": "cadiz-evento-carreras-de-caballos-de-sanlucar-2249ba",
+    "nombre": "Carreras de Caballos de Sanlúcar",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.772061,
+      "longitud": -6.354903
+    },
+    "tipo": "ACTIVIDADES DEPORTIVAS"
+  },
+  {
+    "id": "cadiz-evento-concurso-cante-peteneras-paterna-rivera-dd7cc1",
+    "nombre": "50º Concurso de Cante por Peteneras",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PATERNA DE RIVERA",
+      "latitud": 36.523441,
+      "longitud": -5.865721
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "cadiz-evento-la-isla-ciudad-flamenca-61114f",
+    "nombre": "La Isla Ciudad Flamenca",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": 36.475479,
+      "longitud": -6.194491
+    },
+    "tipo": "FLAMENCO"
+  },
+  {
+    "id": "cadiz-evento-cabaret-festival-algeciras-e1afc3",
+    "nombre": "Cabaret Festival Algeciras",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": 36.140759,
+      "longitud": -5.456233
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-puro-latino-festival-el-puerto-66e2ad",
+    "nombre": "Puro Latino",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.639328,
+      "longitud": -6.258837
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-cabaret-festival-el-puerto-aba110",
+    "nombre": "Cabaret Festival",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.639328,
+      "longitud": -6.258837
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-combates-de-lucha-medieval2-8a6295",
+    "nombre": "Combates de Lucha Medieval",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.772061,
+      "longitud": -6.354903
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-evento-sancti-petri-sup-race-4dde9e",
+    "nombre": "Sancti Petri Sup Race",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.416505,
+      "longitud": -6.14611
+    },
+    "tipo": "ACTIVIDADES DEPORTIVAS"
+  },
+  {
+    "id": "cadiz-evento-iv-carrera-solidaria-crucera-bahia-telec-f70243",
+    "nombre": "IV Carrera Solidaria Crucera BahíaTelecom",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "ACTIVIDADES DEPORTIVAS"
+  },
+  {
+    "id": "cadiz-evento-south-international-series-festival-503087",
+    "nombre": "South International Series Festival",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "ESPECTACULO"
+  },
+  {
+    "id": "cadiz-evento-gala-de-benefica-de-carnaval-a538fa",
+    "nombre": "IV Gala benéfica de carnaval",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.278099,
+      "longitud": -6.086207
+    },
+    "tipo": "FIESTAS FERIAS Y TRADICIONES"
+  },
+  {
+    "id": "cadiz-evento-feria-sierra-cadiz-apicultura-163501",
+    "nombre": "X Feria de Apicultura Sierra de Cádiz",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PRADO DEL REY",
+      "latitud": 36.788258,
+      "longitud": -5.55779
+    },
+    "tipo": "MEDIO AMBIENTE"
+  },
+  {
+    "id": "cadiz-evento-faia-cadiz-dab597",
+    "nombre": "FAIA Cádiz",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.521014,
+      "longitud": -6.280456
+    },
+    "tipo": "EXPOSICION"
+  },
+  {
+    "id": "cadiz-evento-festival-de-cine-generamma-14f4b1",
+    "nombre": "Festival de Cine Generamma",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.416505,
+      "longitud": -6.14611
+    },
+    "tipo": "EVENTO ARTISTICO"
+  }
+]

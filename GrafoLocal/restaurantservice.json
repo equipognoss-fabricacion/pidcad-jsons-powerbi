@@ -1,0 +1,277 @@
+[
+  {
+    "id": "Mare",
+    "nombre": "Mare",
+    "localizacion": {
+      "direccion": "Plaza de la Candelaria, 12",
+      "municipio": "CADIZ",
+      "latitud": 36.5311,
+      "longitud": -6.2956
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Bespoke",
+    "nombre": "Bespoke",
+    "localizacion": {
+      "direccion": "El Puerto de Santa María",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.5942,
+      "longitud": -6.2322
+    },
+    "tipo": "BAR DE VINOS"
+  },
+  {
+    "id": "Alevante",
+    "nombre": "Alevante",
+    "localizacion": {
+      "direccion": "Calle Amílcar Barca, s/n, Palacio de Sancti Petri Gran Meliá",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.347,
+      "longitud": -6.1649
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante T22 – Hotel Casa Palacio María Luisa",
+    "nombre": "Restaurante T22 – Hotel Casa Palacio María Luisa",
+    "localizacion": {
+      "direccion": "Calle Tornería, 22 (Hotel Casa Palacio María Luisa)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6847,
+      "longitud": -6.139
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante Toro Tapas",
+    "nombre": "Restaurante Toro Tapas",
+    "localizacion": {
+      "direccion": "Calle Los Moros, 7 (Bodegas Osborne)",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.5943,
+      "longitud": -6.2348
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Aponiente",
+    "nombre": "Aponiente",
+    "localizacion": {
+      "direccion": "Calle Francisco Cossi Ochoa, s/n",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.6033,
+      "longitud": -6.2166
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante Casa Bigote y Taberna",
+    "nombre": "Restaurante Casa Bigote y Taberna",
+    "localizacion": {
+      "direccion": "Calle Punta del Espíritu Santo, s/n (Bajo de Guía)",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.7831,
+      "longitud": -6.3565
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante La Cruz Blanca",
+    "nombre": "Restaurante La Cruz Blanca",
+    "localizacion": {
+      "direccion": "Plaza del Arenal (frente al Ayuntamiento)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6843,
+      "longitud": -6.1358
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Botagorda",
+    "nombre": "Botagorda",
+    "localizacion": {
+      "direccion": "Plaza Vargas, 4",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6836,
+      "longitud": -6.137
+    },
+    "tipo": "BAR DE VINOS"
+  },
+  {
+    "id": "Código de Barra",
+    "nombre": "Código de Barra",
+    "localizacion": {
+      "direccion": "Calle San Francisco, 7",
+      "municipio": "CADIZ",
+      "latitud": 36.5338,
+      "longitud": -6.2953
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante Albores",
+    "nombre": "Restaurante Albores",
+    "localizacion": {
+      "direccion": "Calle Consistorio, 12",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6839,
+      "longitud": -6.1367
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante Bar Juanito",
+    "nombre": "Restaurante Bar Juanito",
+    "localizacion": {
+      "direccion": "Calle Pescadería, 8",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.684,
+      "longitud": -6.1363
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "La Vermutería del Sherry – Hipotels Sherry Park",
+    "nombre": "La Vermutería del Sherry – Hipotels Sherry Park",
+    "localizacion": {
+      "direccion": "Avenida Alcalde Álvaro Domecq, 11 (Hotel Sherry Park)",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6921,
+      "longitud": -6.1148
+    },
+    "tipo": "BAR DE VINOS"
+  },
+  {
+    "id": "Mesón Sabor Andaluz",
+    "nombre": "Mesón Sabor Andaluz",
+    "localizacion": {
+      "direccion": "Calle la Huerta, 3",
+      "municipio": "ALCALA DEL VALLE",
+      "latitud": 36.901,
+      "longitud": -5.1689
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante La Carboná",
+    "nombre": "Restaurante La Carboná",
+    "localizacion": {
+      "direccion": "Calle San Francisco de Paula, 2",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6856,
+      "longitud": -6.1394
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Lú Cocina y Alma",
+    "nombre": "Lú Cocina y Alma",
+    "localizacion": {
+      "direccion": "Calle Zaragoza, 2",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6877,
+      "longitud": -6.1357
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Romerijo Cocedero de Mariscos Restaurante – Cervecería",
+    "nombre": "Romerijo Cocedero de Mariscos Restaurante – Cervecería",
+    "localizacion": {
+      "direccion": "Plaza de la Herrería, 1",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.5942,
+      "longitud": -6.2322
+    },
+    "tipo": "CERVECERIA"
+  },
+  {
+    "id": "Tabanco Plateros",
+    "nombre": "Tabanco Plateros",
+    "localizacion": {
+      "direccion": "Calle Pescadería Vieja, 8-10",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6838,
+      "longitud": -6.1365
+    },
+    "tipo": "TABERNA"
+  },
+  {
+    "id": "Tabanco El Pasaje",
+    "nombre": "Tabanco El Pasaje",
+    "localizacion": {
+      "direccion": "Calle Santa María, 8",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6847,
+      "longitud": -6.1381
+    },
+    "tipo": "TABERNA"
+  },
+  {
+    "id": "Campo de Tiro",
+    "nombre": "Campo de Tiro",
+    "localizacion": {
+      "direccion": "Trebujena",
+      "municipio": "TREBUJENA",
+      "latitud": 36.873,
+      "longitud": -6.1862
+    },
+    "tipo": "BAR"
+  },
+  {
+    "id": "Mantúa",
+    "nombre": "Mantúa",
+    "localizacion": {
+      "direccion": "Plaza Aladro, 7",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6875,
+      "longitud": -6.1359
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "Restaurante Entrebotas",
+    "nombre": "Restaurante Entrebotas",
+    "localizacion": {
+      "direccion": "Calle Banda Playa, 42 (Bodegas Hidalgo La Gitana)",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.7765,
+      "longitud": -6.3528
+    },
+    "tipo": "RESTAURANTE"
+  },
+  {
+    "id": "La Casa del Jerez",
+    "nombre": "La Casa del Jerez",
+    "localizacion": {
+      "direccion": "Avenida Duque de Abrantes, Urbanización Divina Pastora, Bloque 1, local 3",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6912,
+      "longitud": -6.1185
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Bodega MAR 7",
+    "nombre": "Bodega MAR 7",
+    "localizacion": {
+      "direccion": "Calle Mar, 9",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.7762,
+      "longitud": -6.3522
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Taberna Der Guerrita",
+    "nombre": "Taberna Der Guerrita",
+    "localizacion": {
+      "direccion": "Calle San Salvador, 34 (esquina Rubiños)",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.7759,
+      "longitud": -6.353
+    },
+    "tipo": ""
+  }
+]

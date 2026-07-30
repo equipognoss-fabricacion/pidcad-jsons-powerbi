@@ -1,0 +1,893 @@
+[
+  {
+    "id": "cadiz-playa-guadarranque-47b4c3",
+    "nombre": "Guadarranque",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.181295,
+      "longitud": -5.410529
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-santa-maria-del-mar-d9bc5f",
+    "nombre": "Santa María del Mar",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.769291,
+      "longitud": -6.380657
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-montijo-e4a260",
+    "nombre": "Montijo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": 36.75607,
+      "longitud": -6.408853
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-santa-barbara-10459f",
+    "nombre": "Santa Bárbara",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LA LINEA DE LA CONCEPCION",
+      "latitud": 36.167511,
+      "longitud": -5.337193
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-levante-la-linea-8e78ca",
+    "nombre": "Levante",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LA LINEA DE LA CONCEPCION",
+      "latitud": 36.203341,
+      "longitud": -5.33683
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-santa-clara-cf3c4a",
+    "nombre": "Santa Clara",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.518641,
+      "longitud": -6.278903
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-cala-puntalejo-e722c7",
+    "nombre": "Cala Puntalejo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.296238,
+      "longitud": -6.127355
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-fuentebravia-dc4493",
+    "nombre": "Fuentebravía",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.611819,
+      "longitud": -6.288306
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-calas-de-roche-4428c1",
+    "nombre": "Calas de Roche",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.302225,
+      "longitud": -6.147028
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-bonanza-6ad3ec",
+    "nombre": "Bonanza",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.801067,
+      "longitud": -6.335236
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-caseria-25e543",
+    "nombre": "La Casería",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": 36.484607,
+      "longitud": -6.201163
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-puente-mayorga-bcd885",
+    "nombre": "Puente Mayorga",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.180506,
+      "longitud": -5.388032
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-calita-4fc100",
+    "nombre": "La Calita",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.583356,
+      "longitud": -6.268157
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-de-los-alemanes-70d0b9",
+    "nombre": "Los Alemanes",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.09689,
+      "longitud": -5.814736
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-zahora-672b04",
+    "nombre": "Zahora",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": 36.198149,
+      "longitud": -6.045668
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-bolonia-4c267d",
+    "nombre": "Bolonia",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.088606,
+      "longitud": -5.778543
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-camaron-0996dc",
+    "nombre": "Camarón",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": 36.718874,
+      "longitud": -6.438856
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-hierbabuena-cd9e6a",
+    "nombre": "Hierbabuena",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": 36.185596,
+      "longitud": -5.940145
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-campamento-6489a3",
+    "nombre": "Campamento",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.174835,
+      "longitud": -5.375014
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-sotogrande-d9d3f4",
+    "nombre": "Sotogrande",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.286166,
+      "longitud": -5.274784
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-getares-85855a",
+    "nombre": "Getares",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": 36.095983,
+      "longitud": -5.443385
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-regla-70addf",
+    "nombre": "Regla",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": 36.72606,
+      "longitud": -6.439356
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-fontanilla-0ca841",
+    "nombre": "La Fontanilla",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.289307,
+      "longitud": -6.108142
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-puerco-746d6c",
+    "nombre": "Puerco",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.350737,
+      "longitud": -6.170265
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-valdelagrana-0b3454",
+    "nombre": "Valdelagrana",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.575,
+      "longitud": -6.226667
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-santa-catalina-cd4b26",
+    "nombre": "Santa Catalina",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.579956,
+      "longitud": -6.265744
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-borondo-4f648d",
+    "nombre": "Borondo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.210462,
+      "longitud": -5.384432
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-playa-del-rio-san-pedro-45248a",
+    "nombre": "Playa del río San Pedro",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PUERTO REAL",
+      "latitud": 36.529256,
+      "longitud": -6.216649
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-caleta-ab71ee",
+    "nombre": "La Caleta",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.533263,
+      "longitud": -6.307337
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-bajo-de-guia-0ce959",
+    "nombre": "Bajo de Guía",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.791554,
+      "longitud": -6.347037
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-camposoto-9e509e",
+    "nombre": "Camposoto",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": 36.427516,
+      "longitud": -6.230294
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-palmones-0f044a",
+    "nombre": "Palmones",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LOS BARRIOS",
+      "latitud": 36.173806,
+      "longitud": -5.4299
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-calzada-d94537",
+    "nombre": "La Calzada",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.786541,
+      "longitud": -6.357542
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-jara-58def8",
+    "nombre": "La Jara",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.770558,
+      "longitud": -6.382285
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-atlanterra-47c488",
+    "nombre": "Atlanterra",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.107317,
+      "longitud": -5.826924
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-costilla-caa6e0",
+    "nombre": "La Costilla",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "CIMA – Centro de Interpretación de la Manzanilla",
+    "nombre": "CIMA – Centro de Interpretación de la Manzanilla",
+    "localizacion": {
+      "direccion": "Cuesta de Belén, 2",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.7752,
+      "longitud": -6.3528
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Palacio del Tiempo «Museos de la Atalaya»",
+    "nombre": "Palacio del Tiempo «Museos de la Atalaya»",
+    "localizacion": {
+      "direccion": "Calle Cervantes, 3",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6855,
+      "longitud": -6.1412
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-playa-fuente-del-gallo-d41fcb",
+    "nombre": "Fuente del Gallo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.292273,
+      "longitud": -6.111849
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-rincondillo-f5b672",
+    "nombre": "Rinconcillo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": 36.15551,
+      "longitud": -5.444695
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-los-bateles-a5d913",
+    "nombre": "Los Bateles",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.27323,
+      "longitud": -6.093817
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-el-canuelo-66209c",
+    "nombre": "El Cañuelo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.08824,
+      "longitud": -5.805568
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-levante-8e78ca",
+    "nombre": "Levante",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.542122,
+      "longitud": -6.22764
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-sancti-petri-7d8249",
+    "nombre": "Sancti Petri",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.364373,
+      "longitud": -6.178656
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-la-victoria-e94eed",
+    "nombre": "La Victoria",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.498954,
+      "longitud": -6.274441
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-cala-sardina-2acea3",
+    "nombre": "Cala Sardina",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.309512,
+      "longitud": -5.258428
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-barrosa-6a7b9f",
+    "nombre": "La Barrosa",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.346452,
+      "longitud": -6.17775
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-zahara-de-los-atunes-a67f7b",
+    "nombre": "Zahara de los Atunes",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": 36.155531,
+      "longitud": -5.870834
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-cachucha-a44583",
+    "nombre": "La Cachucha",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PUERTO REAL",
+      "latitud": 36.525351,
+      "longitud": -6.185567
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-ballena-f3c0c2",
+    "nombre": "La Ballena",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ROTA",
+      "latitud": 36.687758,
+      "longitud": -6.418979
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-cruz-del-mar-0197c3",
+    "nombre": "Cruz del Mar",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": 36.743987,
+      "longitud": -6.43353
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-puntilla-f6f559",
+    "nombre": "La Puntilla",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.584807,
+      "longitud": -6.24538
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-alcaidesa-d3e0fd",
+    "nombre": "La Alcaidesa",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LA LINEA DE LA CONCEPCION",
+      "latitud": 36.232841,
+      "longitud": -5.314774
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-las-canteras-e309c8",
+    "nombre": "Las Canteras",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": 36.739718,
+      "longitud": -6.439997
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-castilnovo-67fcec",
+    "nombre": "Castilnovo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.26094,
+      "longitud": -6.086608
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-la-muralla-156f9e",
+    "nombre": "La Muralla",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.58018,
+      "longitud": -6.265145
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-valdevaqueros-aa74df",
+    "nombre": "Valdevaqueros",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.068962,
+      "longitud": -5.691293
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-puerto-de-sotogrande-26db80",
+    "nombre": "Puerto de Sotogrande",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.289115,
+      "longitud": -5.277082
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-las-tres-piedras-3d969d",
+    "nombre": "Las Tres Piedras",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": 36.70382,
+      "longitud": -6.427034
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-sobrevela-6add22",
+    "nombre": "Sobrevela",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LA LINEA DE LA CONCEPCION",
+      "latitud": 36.190374,
+      "longitud": -5.331492
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-los-corrales-762141",
+    "nombre": "Los Corrales",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ROTA",
+      "latitud": 36.631333,
+      "longitud": -6.389756
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-el-palmar-45b9d4",
+    "nombre": "El Palmar",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "VEJER DE LA FRONTERA",
+      "latitud": 36.225673,
+      "longitud": -6.066018
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-los-lances-1477b8",
+    "nombre": "Los Lances",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.010687,
+      "longitud": -5.609692
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-torrenueva-5fcfb6",
+    "nombre": "Torrenueva",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.502627,
+      "longitud": -6.275912
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "The Sherry Gallery",
+    "nombre": "The Sherry Gallery",
+    "localizacion": {
+      "direccion": "Plaza de la Asunción, 2",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6858,
+      "longitud": -6.1383
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-playa-los-canos-de-meca-dd4aea",
+    "nombre": "Los Caños de Meca",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": 36.187035,
+      "longitud": -6.026401
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-torreguadiaro-4c5fd3",
+    "nombre": "Torreguadiaro",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.296696,
+      "longitud": -5.270566
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-playa-chica-12c4d6",
+    "nombre": "Playa Chica",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.008429,
+      "longitud": -5.606667
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-la-alcaidesa-san-roque-86637b",
+    "nombre": "La Alcaidesa-San Roque",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.29231,
+      "longitud": -5.382711
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-cala-milla-de-plata-8979a6",
+    "nombre": "Cala Milla de Plata",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.30576,
+      "longitud": -5.262307
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-nuestra-senora-del-carmen-0df811",
+    "nombre": "El Carmen",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": 36.187241,
+      "longitud": -5.92027
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-poniente-54a75a",
+    "nombre": "Poniente",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LA LINEA DE LA CONCEPCION",
+      "latitud": 36.162132,
+      "longitud": -5.35798
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-cortadura-7728a7",
+    "nombre": "Cortadura",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.677709,
+      "longitud": -6.106864
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-rompidillo-14c2f9",
+    "nombre": "Rompidillo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ROTA",
+      "latitud": 36.621011,
+      "longitud": -6.354951
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-punta-candor-c13bf1",
+    "nombre": "Punta Candor",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ROTA",
+      "latitud": 36.630218,
+      "longitud": -6.377514
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "cadiz-playa-cala-del-aceite-aff2ac",
+    "nombre": "Cala del Aceite",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.29687,
+      "longitud": -6.132441
+    },
+    "tipo": "Playa no urbana"
+  },
+  {
+    "id": "cadiz-playa-aguadulce-y-peginas-f97ab2",
+    "nombre": "Aguadulce y Peginas",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": "Playa urbana"
+  },
+  {
+    "id": "Museo del Brandy – Bodegas Fundador",
+    "nombre": "Museo del Brandy – Bodegas Fundador",
+    "localizacion": {
+      "direccion": "Calle Puerta de Rota, s/n",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6869,
+      "longitud": -6.137
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Centro de Interpretación del Vino y la Sal",
+    "nombre": "Centro de Interpretación del Vino y la Sal",
+    "localizacion": {
+      "direccion": "Plaza de las Bodegas, s/n",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.4188,
+      "longitud": -6.1498
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Museo del Moscatel",
+    "nombre": "Museo del Moscatel",
+    "localizacion": {
+      "direccion": "Avenida de Regla, 8 y 10",
+      "municipio": "CHIPIONA",
+      "latitud": 36.7344,
+      "longitud": -6.4373
+    },
+    "tipo": ""
+  },
+  {
+    "id": "Museo de la Manzanilla – Bodegas Barbadillo",
+    "nombre": "Museo de la Manzanilla – Bodegas Barbadillo",
+    "localizacion": {
+      "direccion": "Calle Virgen de Gracia y Esperanza, esq. Calle Sevilla",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.7763,
+      "longitud": -6.3513
+    },
+    "tipo": ""
+  }
+]

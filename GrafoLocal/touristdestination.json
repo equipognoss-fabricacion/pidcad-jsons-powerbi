@@ -1,0 +1,497 @@
+[
+  {
+    "id": "cadiz-municipio-conil-de-la-frontera-c9401c",
+    "nombre": "Conil de la Frontera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": 36.277794,
+      "longitud": -6.092203
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-algodonales-776ec9",
+    "nombre": "Algodonales",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGODONALES",
+      "latitud": 36.881234,
+      "longitud": -5.411552
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-puerto-real-12d769",
+    "nombre": "Puerto Real",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PUERTO REAL",
+      "latitud": 36.531079,
+      "longitud": -6.193433
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-olvera-797a0c",
+    "nombre": "Olvera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "OLVERA",
+      "latitud": 36.934182,
+      "longitud": -5.264841
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-algar-bc6034",
+    "nombre": "Algar",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGAR",
+      "latitud": 36.657421,
+      "longitud": -5.658248
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-grazalema-1cc10f",
+    "nombre": "Grazalema",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "GRAZALEMA",
+      "latitud": 36.759473,
+      "longitud": -5.370271
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-sanlucar-de-barrameda-01d8f7",
+    "nombre": "Sanlúcar de Barrameda",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.772948,
+      "longitud": -6.373134
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-bornos-24dcae",
+    "nombre": "Bornos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BORNOS",
+      "latitud": 36.816256,
+      "longitud": -5.747993
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-el-gastor-c7d55e",
+    "nombre": "El Gastor",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL GASTOR",
+      "latitud": 36.855151,
+      "longitud": -5.32505
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-algeciras-818738",
+    "nombre": "Algeciras",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": 36.131077,
+      "longitud": -5.492874
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-castellar-de-la-frontera-902edc",
+    "nombre": "Castellar de la Frontera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CASTELLAR DE LA FRONTERA",
+      "latitud": 36.286506,
+      "longitud": -5.428276
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-chiclana-de-la-frontera-9152a8",
+    "nombre": "Chiclana de la Frontera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.411945,
+      "longitud": -6.185859
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-prado-del-rey-358844",
+    "nombre": "Prado del Rey",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PRADO DEL REY",
+      "latitud": 36.787317,
+      "longitud": -5.561356
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-paterna-de-rivera-053d61",
+    "nombre": "Paterna de Rivera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PATERNA DE RIVERA",
+      "latitud": 36.522233,
+      "longitud": -5.869466
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-chipiona-33fdb1",
+    "nombre": "Chipiona",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": 36.731256,
+      "longitud": -6.448271
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-arcos-de-la-frontera-b0a6fb",
+    "nombre": "Arcos de la Frontera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ARCOS DE LA FRONTERA",
+      "latitud": 36.751554,
+      "longitud": -5.816793
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-el-puerto-de-santa-maria-1bc05b",
+    "nombre": "El Puerto de Santa María",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.599523,
+      "longitud": -6.323171
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-barbate-32b6f7",
+    "nombre": "Barbate",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": 36.190214,
+      "longitud": -5.924328
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-setenil-de-las-bodegas-1bfbc8",
+    "nombre": "Setenil de las Bodegas",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SETENIL DE LAS BODEGAS",
+      "latitud": 36.862938,
+      "longitud": -5.181137
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-cadiz-8e7d49",
+    "nombre": "Cádiz",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": 36.51642,
+      "longitud": -6.299977
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-el-bosque-1c790d",
+    "nombre": "El Bosque",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL BOSQUE",
+      "latitud": 36.757947,
+      "longitud": -5.510856
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-espera-a2c26f",
+    "nombre": "Espera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ESPERA",
+      "latitud": 36.875916,
+      "longitud": -5.834412
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-jerez-de-la-frontera-88317a",
+    "nombre": "Jerez de la Frontera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.687639,
+      "longitud": -6.140495
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-trebujena-77d02d",
+    "nombre": "Trebujena",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TREBUJENA",
+      "latitud": 36.869237,
+      "longitud": -6.178737
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-san-roque-7683a0",
+    "nombre": "San Roque",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.211644,
+      "longitud": -5.393863
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-zahara-de-la-sierra-9f882d",
+    "nombre": "Zahara de la Sierra",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ZAHARA DE LA SIERRA",
+      "latitud": 36.839846,
+      "longitud": -5.393692
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-arifa-1a266d",
+    "nombre": "Tarifa",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": 36.017287,
+      "longitud": -5.611174
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-rota-7c81b8",
+    "nombre": "Rota",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ROTA",
+      "latitud": 36.62623,
+      "longitud": -6.377362
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-alcala-del-valle-acafaf",
+    "nombre": "Alcalá del Valle",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALCALA DEL VALLE",
+      "latitud": 36.90494,
+      "longitud": -5.177722
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-torre-alhaquime-207afb",
+    "nombre": "Torre Alháquime",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TORRE ALHAQUIME",
+      "latitud": 36.915128,
+      "longitud": -5.236165
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-benaocaz-524a9e",
+    "nombre": "Benaocaz",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BENAOCAZ",
+      "latitud": 36.700663,
+      "longitud": -5.423247
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-alcala-de-los-gazules-f6db6a",
+    "nombre": "Alcalá de los Gazules",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALCALA DE LOS GAZULES",
+      "latitud": 36.461367,
+      "longitud": -5.729316
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-benalup-casas-viejas-1557e2",
+    "nombre": "Benalup - Casas Viejas",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BENALUP CASAS VIEJAS",
+      "latitud": 36.342698,
+      "longitud": -5.826276
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-san-martin-del-tesorillo-65322f",
+    "nombre": "San Martín del Tesorillo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN MARTIN DEL TESORILLO",
+      "latitud": 36.341046,
+      "longitud": -5.323465
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-san-jose-del-valle-98a278",
+    "nombre": "San José del Valle",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN JOSE DEL VALLE",
+      "latitud": 36.607089,
+      "longitud": -5.804499
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-san-fernando-64f967",
+    "nombre": "San Fernando",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": 36.463932,
+      "longitud": -6.219046
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-villaluenga-del-rosario-855902",
+    "nombre": "Villaluenga del Rosario",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "VILLALUENGA DEL ROSARIO",
+      "latitud": 36.696196,
+      "longitud": -5.388403
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-medina-sidonia-e12960",
+    "nombre": "Medina Sidonia",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "MEDINA SIDONIA",
+      "latitud": 36.463445,
+      "longitud": -5.945194
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-los-barrios-c9ed0f",
+    "nombre": "Los Barrios",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LOS BARRIOS",
+      "latitud": 36.18288,
+      "longitud": -5.495914
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-vejer-de-la-frontera-3f8c61",
+    "nombre": "Vejer de la Frontera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "VEJER DE LA FRONTERA",
+      "latitud": 36.251672,
+      "longitud": -5.969889
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-jimena-de-la-frontera-932bad",
+    "nombre": "Jimena de la Frontera",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JIMENA DE LA FRONTERA",
+      "latitud": 36.434884,
+      "longitud": -5.458501
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-la-linea-de-la-concepcion-40caea",
+    "nombre": "La Línea de la Concepción",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LA LINEA DE LA CONCEPCION",
+      "latitud": 36.167276,
+      "longitud": -5.361403
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-puerto-serrano-b32c5f",
+    "nombre": "Puerto Serrano",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PUERTO SERRANO",
+      "latitud": 36.923319,
+      "longitud": -5.547305
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-ubrique-638605",
+    "nombre": "Ubrique",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "UBRIQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-municipio-villamartin-6059fa",
+    "nombre": "Villamartín",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "VILLAMARTIN",
+      "latitud": 36.860364,
+      "longitud": -5.650074
+    },
+    "tipo": ""
+  }
+]

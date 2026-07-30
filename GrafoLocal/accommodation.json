@@ -1,0 +1,189 @@
+[
+  {
+    "id": "Hotel Casa Palacio María Luisa",
+    "nombre": "Hotel Casa Palacio María Luisa",
+    "localizacion": {
+      "direccion": "Calle Tornería, 22",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6847,
+      "longitud": -6.139
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Bodega, Viña y Casa Rural Santa Petronila",
+    "nombre": "Bodega, Viña y Casa Rural Santa Petronila",
+    "localizacion": {
+      "direccion": "Jerez Superior, Jerez de la Frontera",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.71,
+      "longitud": -6.18
+    },
+    "tipo": "CASA RURAL"
+  },
+  {
+    "id": "Hipotels Barrosa Palace & Spa",
+    "nombre": "Hipotels Barrosa Palace & Spa",
+    "localizacion": {
+      "direccion": "Urbanización Novo Sancti Petri, s/n, Edificio 3",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.346,
+      "longitud": -6.164
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Hotel Soho Boutique Jerez & Spa",
+    "nombre": "Hotel Soho Boutique Jerez & Spa",
+    "localizacion": {
+      "direccion": "Calle Nuño de Cañas, 1",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6831,
+      "longitud": -6.1369
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Hotel Sherry Park",
+    "nombre": "Hotel Sherry Park",
+    "localizacion": {
+      "direccion": "Avenida Alcalde Álvaro Domecq, 11",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6921,
+      "longitud": -6.1148
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Hotel Albariza",
+    "nombre": "Hotel Albariza",
+    "localizacion": {
+      "direccion": "Calle Bolsa, 65",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.7751,
+      "longitud": -6.3528
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Hotel Puertobahía & Spa",
+    "nombre": "Hotel Puertobahía & Spa",
+    "localizacion": {
+      "direccion": "Avenida de la Paz, 38",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.5994,
+      "longitud": -6.2178
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Casa Palacio María Luisa 5* GL",
+    "nombre": "Casa Palacio María Luisa 5* GL",
+    "localizacion": {
+      "direccion": "Calle Tornería, 21-22",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.686,
+      "longitud": -6.131
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Hotel Jerez & Spa",
+    "nombre": "Hotel Jerez & Spa",
+    "localizacion": {
+      "direccion": "Avenida Alcalde Álvaro Domecq, 47",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6908,
+      "longitud": -6.118
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "La Gitanilla Alojamiento & Encanto",
+    "nombre": "La Gitanilla Alojamiento & Encanto",
+    "localizacion": {
+      "direccion": "Calle Barranco, 12",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6895,
+      "longitud": -6.1425
+    },
+    "tipo": "VIVIENDA DE USO TURISTICO"
+  },
+  {
+    "id": "IBEROSTAR Selection Andalucía Playa",
+    "nombre": "IBEROSTAR Selection Andalucía Playa",
+    "localizacion": {
+      "direccion": "Avenida Amílcar Barca, 14",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.345,
+      "longitud": -6.162
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Viña La Bendita Locura",
+    "nombre": "Viña La Bendita Locura",
+    "localizacion": {
+      "direccion": "Carretera Jerez-Rota km 6, Camino del Tejar km 2",
+      "municipio": "EL PUERTO DE SANTA MARIA",
+      "latitud": 36.6278,
+      "longitud": -6.22
+    },
+    "tipo": "VIVIENDA DE USO TURISTICO"
+  },
+  {
+    "id": "Hotel Barceló Montecastillo Golf",
+    "nombre": "Hotel Barceló Montecastillo Golf",
+    "localizacion": {
+      "direccion": "Carretera Jerez-Arcos, Km 6",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6673,
+      "longitud": -6.0986
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Palacio de Sancti Petri, a Gran Meliá - The Leading Hotels of the World",
+    "nombre": "Palacio de Sancti Petri, a Gran Meliá - The Leading Hotels of the World",
+    "localizacion": {
+      "direccion": "Urbanización Novo Sancti Petri, s/n",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.347,
+      "longitud": -6.1649
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Hotel ibis Jerez",
+    "nombre": "Hotel ibis Jerez",
+    "localizacion": {
+      "direccion": "Calle Rodrigo de Jerez, s/n",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6803,
+      "longitud": -6.1261
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Hotel Villa Jerez",
+    "nombre": "Hotel Villa Jerez",
+    "localizacion": {
+      "direccion": "Avenida de la Cruz Roja, 7",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.684,
+      "longitud": -6.141
+    },
+    "tipo": "HOTEL"
+  },
+  {
+    "id": "Casa Rural Viña Alcántara",
+    "nombre": "Casa Rural Viña Alcántara",
+    "localizacion": {
+      "direccion": "Carretera Jerez-Arcos, Km 8,6",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.6621,
+      "longitud": -6.089
+    },
+    "tipo": "CASA RURAL"
+  }
+]

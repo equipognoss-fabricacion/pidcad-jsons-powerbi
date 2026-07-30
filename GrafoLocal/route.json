@@ -1,0 +1,607 @@
+[
+  {
+    "id": "cadiz-ruta-el-museo-mas-dulce-0ce5c7",
+    "nombre": "El Museo más Dulce",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-los-flysch-del-estrecho-a443c5",
+    "nombre": "Los Flysch del Estrecho",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-una-de-bandoleros-2cc653",
+    "nombre": "Una de Bandoleros",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "GRAZALEMA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-bodegas-de-pelicula-c4ee25",
+    "nombre": "Bodegas de Película",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-la-ruta-del-caballo-y-del-toro-en-la-pro-3676c2",
+    "nombre": "La Ruta del Caballo y del Toroen la provincia de Cádiz",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-moros-y-cristianos-d29656",
+    "nombre": "Moros y Cristianos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "GRAZALEMA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-museo-el-dique-b6ab92",
+    "nombre": "Museo El Dique",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PUERTO REAL",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-los-reyes-del-estrecho-e04cd4",
+    "nombre": "Los Reyes del Estrecho",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-entra-en-donana-3ecedf",
+    "nombre": "Entra en Doñana",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-cabo-de-trafalgar-f9b02a",
+    "nombre": "Sendero Cabo de Trafalgar",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-las-torres-gemelas-1d586a",
+    "nombre": "Las Torres Gemelas",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-ity--ightseeing--adiz-4cc08c",
+    "nombre": "City Sightseeing Cádiz",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CADIZ",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-gibraltar-en-el-corazon-e01236",
+    "nombre": "Gibraltar en el Corazón",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-las-ventas-de-trashumantes-dd8d99",
+    "nombre": "Sendero Las Ventas Trashumantes",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TORRE ALHAQUIME",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-cerro-del-aguila-a589c8",
+    "nombre": "Sendero del Cerro del Águila",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-punta-del-boqueron-fff6b7",
+    "nombre": "Sendero Punta del Boquerón",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-del-viajero-142fe3",
+    "nombre": "Ruta del viajero",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALCALA DEL VALLE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-via-verde-de-la-sierra-37c7bd",
+    "nombre": "Vía Verde",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "OLVERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-faro-de-chipiona-ac6e5d",
+    "nombre": "Faro de Chipiona",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHIPIONA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-baelo-claudia-7404b8",
+    "nombre": "Baelo Claudia",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-fuente-de-ramos-a312c9",
+    "nombre": "Sendero Fuente de Ramos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PUERTO SERRANO",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-de-la-playa-de-la-barrosa-ea44bd",
+    "nombre": "Sendero de la playa de La Barrosa",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-algodonales-los-nacimientos-bcce31",
+    "nombre": "Sendero Algodonales-Los Nacimientos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGODONALES",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-del-acantilado-bd116a",
+    "nombre": "Sendero del Acantilado",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BARBATE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-del-rio-de-la-miel-41bfc2",
+    "nombre": "Sendero Río de la Miel",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-isla-de-sancti-petri-d5916e",
+    "nombre": "Isla de Sancti Petri",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-calzada-romana-de-ubrique-de2db7",
+    "nombre": "Sendero Calzada Romana de Ubrique",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "UBRIQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-subida-al-aljibe-d13109",
+    "nombre": "Subida al Aljibe",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALCALA DE LOS GAZULES",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-senderos-calas-de-conil-28a5cd",
+    "nombre": "Sendero Calas de Conil",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CONIL DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-del-rio-hozgarganta-690222",
+    "nombre": "Sendero del río Hozgarganta",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JIMENA DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-recreacion-historica-el-bosque-c08979",
+    "nombre": "Recreación Histórica El Bosque",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL BOSQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-colada-de-la-costa-648cd5",
+    "nombre": "Sendero Colada de la Costa",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TARIFA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-litoral-de-rota-5afab9",
+    "nombre": "Sendero litoral de Rota",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ROTA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-salinas-y-marismas-de-trebujena-de0cb6",
+    "nombre": "Sendero Salinas y Marismas de Trebujena",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TREBUJENA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-garganta-verde-025d11",
+    "nombre": "Sendero La Garganta Verde",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ZAHARA DE LA SIERRA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-a-campo-abierto-858784",
+    "nombre": "A Campo Abierto",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BENALUPCASAS VIEJAS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-salto-del-cabrero-b38465",
+    "nombre": "Sendero Salto del Cabrero",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BENAOCAZ",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-llanos-del-republicano-a8b6f1",
+    "nombre": "Sendero Llanos del Republicano",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "VILLALUENGA DEL ROSARIO",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-david-contra-goliat-9ebdbc",
+    "nombre": "David contra Goliat",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGODONALES",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-crujia-de-gamones-3417ab",
+    "nombre": "Crujía de Gamones",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "UBRIQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-garbanzos-como-conejo-eaba35",
+    "nombre": "Garbanzos como Conejo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "TREBUJENA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-del-rio-majaceite-58efb5",
+    "nombre": "Sendero del río Majaceite",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL BOSQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-zahara-el-gastor-1e05d1",
+    "nombre": "Sendero Zahara - El Gastor",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL GASTOR",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-corredor-verde-dos-bahias-37cced",
+    "nombre": "Corredor Verde Dos Bahías",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "PUERTO REAL",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-valdeinfierno-5387b2",
+    "nombre": "Sendero de Valdeinfierno",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LOS BARRIOS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-canos-santos-94b680",
+    "nombre": "Sendero Caños Santos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SETENIL DE LAS BODEGAS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-unidos-para-siempre-43957b",
+    "nombre": "Unidos para Siempre",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN FERNANDO",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-polo-2396ff",
+    "nombre": "Polo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN ROQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-ribera-del-embalse-de--ornos-91ac98",
+    "nombre": "Sendero Ribera del embalse de Bornos",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "BORNOS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-centro-btt-14bc3b",
+    "nombre": "Centro BTT",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "LOS BARRIOS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-palacio-del-tiempo-130495",
+    "nombre": "El Palacio del Tiempo",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-sendero-la-calzada-dehesa-boyal-3bf784",
+    "nombre": "Sendero La Calzada Dehesa Boyal",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "CASTELLAR DE LA FRONTERA",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-ruta-del-toro-ed8cb8",
+    "nombre": "Ruta del Toro",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "SAN JOSE DEL VALLE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-ruta-paco-de-lucia-6c7e16",
+    "nombre": "Ruta Paco de Lucía",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "ALGECIRAS",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  },
+  {
+    "id": "cadiz-ruta-pan-y-queso-saben-beso-ad9aa2",
+    "nombre": "Pan y Queso Saben a Beso",
+    "localizacion": {
+      "direccion": "",
+      "municipio": "EL BOSQUE",
+      "latitud": null,
+      "longitud": null
+    },
+    "tipo": ""
+  }
+]

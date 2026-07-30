@@ -1,0 +1,222 @@
+[
+  {
+    "id": "076ab4ba-1dcb-431e-333f-c7ed57b8e410",
+    "nombre": "La Reserva de Sotogrande",
+    "localizacion": {
+      "direccion": "Campo de Golf en San Roque",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.19,
+      "longitud": -5.36
+    },
+    "tipo": ""
+  },
+  {
+    "id": "2ab3b627-6b32-f1d6-96bb-cdd8e1b78322",
+    "nombre": "Sancti Petri Hills Golf",
+    "localizacion": {
+      "direccion": "Campo de Golf en Chiclana de la Frontera",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.42,
+      "longitud": -6.14
+    },
+    "tipo": ""
+  },
+  {
+    "id": "fae3feff-6e1e-b5ca-02b0-dac4c304a301",
+    "nombre": "Club de Golf Campano",
+    "localizacion": {
+      "direccion": "Campo de Golf en Chiclana de la Frontera",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.42,
+      "longitud": -6.14
+    },
+    "tipo": ""
+  },
+  {
+    "id": "5b51a7b1-b06d-e13a-97d7-898006f08bcd",
+    "nombre": "Sherry Golf Jerez",
+    "localizacion": {
+      "direccion": "Campo de Golf en Jerez de la Frontera",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.68,
+      "longitud": -6.14
+    },
+    "tipo": ""
+  },
+  {
+    "id": "576fcb31-7514-12c4-8160-5a4853040bee",
+    "nombre": "Fairplay Golf and Spa Resort",
+    "localizacion": {
+      "direccion": "Campo de Golf en Benalup - Casas Viejas",
+      "municipio": "BENALUP CASAS VIEJAS",
+      "latitud": 36.45,
+      "longitud": -5.79
+    },
+    "tipo": ""
+  },
+  {
+    "id": "a423e6ba-d446-ab57-3f7d-7deb719e308c",
+    "nombre": "La Estancia Golf",
+    "localizacion": {
+      "direccion": "Campo de Golf en Chiclana de la Frontera",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.42,
+      "longitud": -6.14
+    },
+    "tipo": ""
+  },
+  {
+    "id": "9d022a12-40af-5229-2900-01ffd8245506",
+    "nombre": "Alcaidesa Heathland and Links Golf Course",
+    "localizacion": {
+      "direccion": "Campo de Golf en San Roque",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.19,
+      "longitud": -5.36
+    },
+    "tipo": ""
+  },
+  {
+    "id": "46e878fb-0fd7-efe8-4000-c9d64b9fde99",
+    "nombre": "The San Roque Club Old Course & New Course",
+    "localizacion": {
+      "direccion": "Campo de Golf en San Roque",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.19,
+      "longitud": -5.36
+    },
+    "tipo": ""
+  },
+  {
+    "id": "2a12d93a-8594-be36-97cf-d593af6b7852",
+    "nombre": "Real Club de Golf Sotogrande",
+    "localizacion": {
+      "direccion": "Campo de Golf en San Roque",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.19,
+      "longitud": -5.36
+    },
+    "tipo": ""
+  },
+  {
+    "id": "2510a8c1-40ec-fcf8-0de7-0999ffe30db3",
+    "nombre": "Club de Campo y Golf La Luna de Doñana",
+    "localizacion": {
+      "direccion": "Campo de Golf en Sanlúcar de Barrameda",
+      "municipio": "SANLUCAR DE BARRAMEDA",
+      "latitud": 36.78,
+      "longitud": -6.33
+    },
+    "tipo": ""
+  },
+  {
+    "id": "4d6098f3-4c96-764a-7bc2-d22aa3149344",
+    "nombre": "Iberostar Golf Novo Sancti Petri / Real Novo Sancti Petri Golf",
+    "localizacion": {
+      "direccion": "Campo de Golf en Chiclana de la Frontera",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.42,
+      "longitud": -6.14
+    },
+    "tipo": ""
+  },
+  {
+    "id": "dd44d8fe-65aa-79a1-f14d-184fa09985c1",
+    "nombre": "Montenmedio Golf & Country Club",
+    "localizacion": {
+      "direccion": "Campo de Golf en Vejer de la Frontera",
+      "municipio": "VEJER DE LA FRONTERA",
+      "latitud": 36.25,
+      "longitud": -5.97
+    },
+    "tipo": ""
+  },
+  {
+    "id": "d88cff64-80b7-4969-4283-15840cad94ae",
+    "nombre": "Chiclana Family Golf Park",
+    "localizacion": {
+      "direccion": "Campo de Golf en Chiclana de la Frontera",
+      "municipio": "CHICLANA DE LA FRONTERA",
+      "latitud": 36.42,
+      "longitud": -6.14
+    },
+    "tipo": ""
+  },
+  {
+    "id": "c730c93d-5052-6783-47b0-6a1cf7c7d435",
+    "nombre": "Club de Golf La Cañada",
+    "localizacion": {
+      "direccion": "Campo de Golf en San Roque",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.19,
+      "longitud": -5.36
+    },
+    "tipo": ""
+  },
+  {
+    "id": "7af88ef1-7caf-0627-c93e-5a0be870b1f4",
+    "nombre": "Arcos Golf",
+    "localizacion": {
+      "direccion": "Campo de Golf en Arcos de la Frontera",
+      "municipio": "ARCOS DE LA FRONTERA",
+      "latitud": 36.74,
+      "longitud": -5.77
+    },
+    "tipo": ""
+  },
+  {
+    "id": "ac2bb137-6de3-b17b-4f1e-c23d0ca88938",
+    "nombre": "Real Club de Golf Valderrama",
+    "localizacion": {
+      "direccion": "Campo de Golf en San Roque",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.19,
+      "longitud": -5.36
+    },
+    "tipo": ""
+  },
+  {
+    "id": "6744e775-5e78-5ea7-6cb8-6d74d688f501",
+    "nombre": "Barceló Montecastillo Golf Resort",
+    "localizacion": {
+      "direccion": "Campo de Golf en Jerez de la Frontera",
+      "municipio": "JEREZ DE LA FRONTERA",
+      "latitud": 36.68,
+      "longitud": -6.14
+    },
+    "tipo": ""
+  },
+  {
+    "id": "ca4df42d-ffea-aec7-eb3d-6923776c92bf",
+    "nombre": "Almenara Golf Resort",
+    "localizacion": {
+      "direccion": "Campo de Golf en San Roque",
+      "municipio": "SAN ROQUE",
+      "latitud": 36.19,
+      "longitud": -5.36
+    },
+    "tipo": ""
+  },
+  {
+    "id": "25effea9-5072-9616-31db-455b045e2e7e",
+    "nombre": "Villanueva Golf Resort",
+    "localizacion": {
+      "direccion": "Campo de Golf en Puerto Real",
+      "municipio": "PUERTO REAL",
+      "latitud": 36.45,
+      "longitud": -6.2
+    },
+    "tipo": ""
+  },
+  {
+    "id": "95f338d7-732d-ea2f-52c8-4bb125e8f8d3",
+    "nombre": "Costa Ballena Ocean Golf Club",
+    "localizacion": {
+      "direccion": "Campo de Golf en Rota",
+      "municipio": "ROTA",
+      "latitud": 36.63,
+      "longitud": -6.23
+    },
+    "tipo": ""
+  }
+]
