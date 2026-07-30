@@ -43,13 +43,13 @@ Visitas al Museo de Cádiz \[2024, por tipo de actividad] (fuente Junta de Andal
 
 Personas usuarias por mes, de 2024, 2025 y 2026
 
-https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24\_0.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24_0.xlsx
 
 En la Hoja “3”
 
-https://www.juntadeandalucia.es/sites/default/files/2026-05/museos25\_12\_V2.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2026-05/museos25_12_V2.xlsx
 
-https://www.juntadeandalucia.es/sites/default/files/2026-07/museos26\_05.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2026-07/museos26_05.xlsx
 
 
 
@@ -59,7 +59,7 @@ individual y grupos, hombres y mujeres
 
 Tipo de actividad: visitas guiadas, talleres, etc.
 
-https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24\_0.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24_0.xlsx
 
 En la Hoja “21”
 
