@@ -4,11 +4,11 @@
 
 **actividades\_ocio.xlsx**
 Gastos en espectáculos culturales \[2024-2025-2026, por mes y categoría]
-'''
+```
 curl -X 'GET'   
 'https://www.dataestur.es/API-SEGITTUR-v2/ACTIVIDADES\_OCIO\_DL?desde%20%28a%C3%B1o%29=2024\&desde%20%28mes%29=1\&hasta%20%28a%C3%B1o%29=2026\&hasta%20%28mes%29=6\&CCAA=Andaluc%C3%ADa\&Provincia=C%C3%A1diz'   
 -H 'accept: application/vnd.ms-excel'
-'''
+```
 Las categorías de interés son: Cine; Conferencias; Cultura, teatro y danza; Música; Musicales
 Se excluyen: Actividades infantiles; Cursos; Deportes y aventuras; Gastronomía
 Datos disponibles:
@@ -26,16 +26,11 @@ Valoración de recursos turísticos.
 
 Obtención de la última valoración, del primer trimestre (se recomienda que la Diputación consiga las anteriores), para poder presentar la evolución por trimestres.
 
-'''
-
-curl -X 'GET' \\
-
-&#x20; 'https://www.dataestur.es/API-SEGITTUR-v2/ATRACCIONES\_RECURSOS\_TURISTICOS\_DL?Provincia=C%C3%A1diz' \\
-
-&#x20; -H 'accept: application/octet-stream'
-
-'''
-
+```
+curl -X 'GET' \
+  'https://www.dataestur.es/API-SEGITTUR-v2/ATRACCIONES\_RECURSOS\_TURISTICOS\_DL?Provincia=C%C3%A1diz' \
+  -H 'accept: application/octet-stream'
+```
 
 
 **Carpeta Junta de Andalucía**
@@ -48,13 +43,13 @@ Visitas al Museo de Cádiz \[2024, por tipo de actividad] (fuente Junta de Andal
 
 Personas usuarias por mes, de 2024, 2025 y 2026
 
-https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24\_0.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24_0.xlsx
 
-&#x09;Hoja “3”
+En la Hoja “3”
 
-https://www.juntadeandalucia.es/sites/default/files/2026-05/museos25\_12\_V2.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2026-05/museos25_12_V2.xlsx
 
-https://www.juntadeandalucia.es/sites/default/files/2026-07/museos26\_05.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2026-07/museos26_05.xlsx
 
 
 
@@ -64,9 +59,9 @@ individual y grupos, hombres y mujeres
 
 Tipo de actividad: visitas guiadas, talleres, etc.
 
-https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24\_0.xlsx
+https://www.juntadeandalucia.es/sites/default/files/2025-11/museos24_0.xlsx
 
-&#x09;Hoja “21”
+En la Hoja “21”
 
 
 
@@ -98,11 +93,9 @@ Llamadas al API para obtener los datos:
 
 https://guiadigital.iaph.es/store/apis/info?name=open-data-iaph\&version=1.0\&provider=guiadigital
 
-'''
-
+```
 curl -k -X GET "https://guiadigital.iaph.es/api/1.0/bien/inmueble/2097" -H "accept: application/json" -H "Authorization: Bearer ebe7d5fd-e77c-3581-8242-6eb6a5dbdbef"
-
-'''
+```
 
 
 
@@ -150,12 +143,9 @@ Llamadas al API para obtener los datos:
 
 https://guiadigital.iaph.es/store/apis/info?name=open-data-iaph\&version=1.0\&provider=guiadigital 
 
-'''
-
+```
 curl -k -X GET "https://guiadigital.iaph.es/api/1.0/bien/inmaterial/218472" -H "accept: application/json" -H "Authorization: Bearer ebe7d5fd-e77c-3581-8242-6eb6a5dbdbef"
-
-'''
-
+```
 
 
 **rutas-culturales.json**
